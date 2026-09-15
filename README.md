@@ -1,16 +1,58 @@
-## Hi there 👋
+# Hi, I'm Samitha Nambirajan 👋
 
-<!--
-**Samitha-24/Samitha-24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### B.Tech Computer Science & Engineering Student | Aspiring Software Engineer
 
-Here are some ideas to get you started:
+I am a dedicated B.Tech Computer Science and Engineering student with a strong interest in software development, problem-solving, and emerging technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am currently strengthening my programming fundamentals and exploring Python, Data Structures, and software development through hands-on projects and continuous learning.
+
+---
+
+## 🚀 About Me
+
+- 🎓 B.Tech Computer Science & Engineering Student
+- 💻 Aspiring Software Engineer
+- 🌱 Currently learning Python and Data Structures
+- 🧩 Interested in problem-solving and software development
+- 🚀 Building projects to gain practical experience
+- 📍 Chennai, India
+
+---
+
+## 🛠️ Skills
+
+**Programming:**  
+Python | C
+
+**Computer Science:**  
+Data Structures | Problem Solving | Programming Fundamentals
+
+**Tools:**  
+Git | GitHub | VS Code
+
+---
+
+## 📚 Currently Learning
+
+- Python
+- Data Structures & Algorithms
+- Git & GitHub
+- Web Development
+- Software Development Practices
+
+---
+
+## 📂 Projects
+
+Projects will be added here as I build and document them.
+
+---
+
+## 🔗 Connect With Me
+
+- [LinkedIn](YOUR_LINKEDIN_URL)
+- [GitHub](https://github.com/Samitha-24)
+
+---
+
+⭐ Thanks for visiting my profile!
